@@ -6,7 +6,7 @@
 	    $subject=$_POST['contactSubject'];
 	    $msg=$_POST['contactMessage'];
 
-	    $to='kainat.kamal29@gmail.com
+	    $to='junk@gmail.com
 	    $message="Name: ".$name."\n"."Wrote the following: "."\n\n".$msg;
 	    $headers="From: ".$email;
 
